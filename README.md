@@ -5,7 +5,7 @@ A simple project that demonstrates how to control an LED using a smartphone via 
 
 ## 📸 Circuit
 
-![App Screenshot](https://github.com/udham2511/led-toggle-via-bluetooth/blob/images/circuit.png)
+![App Screenshot](https://github.com/udham2511/led-toggle-via-bluetooth/blob/main/images/circuit.png)
 
 ---
 
